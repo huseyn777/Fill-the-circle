@@ -1,2 +1,2 @@
 # Fill-the-circle
-Inovative and basic Java game
+Innovative and basic Java game
